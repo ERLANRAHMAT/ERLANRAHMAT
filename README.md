@@ -1,30 +1,19 @@
+<h1 align="center">Lann<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
+<p align="center">
+<img src="https://f.top4top.io/p_2264oibha0.jpg" />
+</p>
+
 <p align="center">
 
-<img src="https://f.top4top.io/p_2264oibha0.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+- 👼 My name is Lann
+
+- 🗣️ I am 16 years old 
+
+- 🔭 I am Not programmer
+ 
+- 😎 I am Like Bot & Website
 </p>
 
-<h1 align='center'>hello, this is a little about me</h1>
-
-<p align='center'>Hi There, I'm Lann</p>
-
-<p align='center'>
-
-<a href="https://instagram.com/erlanrahmat_14"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
-
-</p>
-
-<h3 align="left">My Social Media  </h3>
-
-<p align="left">
-
-<a href="https://www.facebook.com/Erlanrahmatdwisaputra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Cak Haho." height="30" width="40" /></a>
-
-<a href="https://instagram.com/erlanrahmat_14" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cak_haho" height="30" width="40" /></a>
-
-<a href="https://wa.me/6285803583481" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Dika Ardnt." height="30" width="40" /></a>
-
-
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
