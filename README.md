@@ -12,7 +12,7 @@
 
 ### 🎊 Founder of BetaBotz · JavaScript Developer · Bot Builder
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-betabotz.eu.org-1a4bff?style=for-the-badge&logoColor=white)](https://betabotz.eu.org)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-betabotz.eu.org-1a4bff?style=for-the-badge&logoColor=white)](https://portofolio.betabotz.eu.org)
 [![API](https://img.shields.io/badge/🔌_BetaBotz_API-api.betabotz.eu.org-ff1a1a?style=for-the-badge)](https://api.betabotz.eu.org)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ERLANRAHMAT&color=1a4bff&style=for-the-badge&label=PROFILE+VIEWS)
