@@ -124,7 +124,7 @@ const Lann = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-betabotz.eu.org-1a4bff?style=for-the-badge)](https://betabotz.eu.org)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-betabotz.eu.org-1a4bff?style=for-the-badge)](https://portofolio.betabotz.eu.org)
 [![BetaBotz API](https://img.shields.io/badge/🔌_API-api.betabotz.eu.org-ff1a1a?style=for-the-badge)](https://api.betabotz.eu.org)
 [![WhatsApp](https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62882008912795?text=halo+bang)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@erlanrahmat__14-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/erlanrahmat_14)
